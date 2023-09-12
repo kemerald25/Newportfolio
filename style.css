@@ -174,7 +174,7 @@ a {
 
 .talk {
     background-color: transparent !important;
-    grid-column: 2/6;
+    grid-column: 1/5;
     grid-row: 2/7;
 }
 
@@ -211,7 +211,7 @@ a {
 
 .guy {
     background-color: transparent !important;
-    grid-column: 7/11;
+    grid-column: 6/11;
     grid-row: 2/10;
 }
 

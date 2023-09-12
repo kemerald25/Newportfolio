@@ -6756,6 +6756,6 @@ function myFunction() {
   } else {
     x.style.display = "block";
   }
-}
+}  
 
 
