@@ -1,5 +1,5 @@
 * {
-    transition: all 0.2s;
+    transition: all 0.9s;
 }
 
 body {
@@ -211,7 +211,7 @@ a {
 
 .guy {
     background-color: transparent !important;
-    grid-column: 6/11;
+    grid-column: 5/11;
     grid-row: 2/10;
 }
 
